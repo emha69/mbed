@@ -1,1 +1,4 @@
+Provides access to the I2C connected Electronic Assembly DOGM204 LCD display
+with SSD1803A controller (www.lcd-module.de)
+
 Original repository is at https://os.mbed.com/users/bcsd69/code/LCD_DOGM204/
